@@ -12,12 +12,15 @@ A curated list of awesome development tools and resources for software developer
       - [Integrated Development Environments (IDEs)](#integrated-development-environments-ides)
       - [Version Control Systems:](#version-control-systems)
       - [Testing and Debugging Tools](#testing-and-debugging-tools)
+        - [Test runners](#test-runners)
+        - [E2E Testing](#e2e-testing)
       - [Issue Tracking and Project Management Tools](#issue-tracking-and-project-management-tools)
     - [Front-end](#front-end)
       - [Web development](#web-development)
         - [Client-side](#client-side)
         - [Full-stack](#full-stack)
       - [Mobile Development](#mobile-development)
+      - [Design](#design)
       - [Styling](#styling)
         - [Approaches](#approaches)
         - [Processors](#processors)
@@ -29,6 +32,7 @@ A curated list of awesome development tools and resources for software developer
     - [Database](#database)
       - [Relational databases](#relational-databases)
       - [NoSQL databases:](#nosql-databases)
+      - [Others](#others)
     - [Data analytics](#data-analytics)
       - [Data visualization tools](#data-visualization-tools)
     - [Back-end](#back-end)
@@ -71,9 +75,12 @@ We encourage contributions from the community, so if you have a favorite develop
 #### Integrated Development Environments (IDEs)
 
 - [Visual Studio Code](https://code.visualstudio.com/): A free, lightweight, cross-platform source code editor by Microsoft for Windows, Linux, and macOS, with support for debugging, syntax highlighting, intelligent code completion, Git integration, and more. Built with Electron and TypeScript.
+- [Vim](https://www.vim.org/): a highly customizable text editor that's designed to be used entirely from the keyboard, with a focus on speed and efficiency
+- [Neovim](https://neovim.io/): a fork of Vim that provides improved performance and extensibility, while still maintaining compatibility with Vim's core features and workflows
 - [Eclipse](https://www.eclipse.org/): An open-source IDE written in Java, mainly used for Java development but also supports other programming languages via plug-ins. Available for Windows, Linux, and macOS.
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/): A powerful and customizable IDE for Java, Kotlin, and other programming languages, with advanced code analysis, debugging, and testing tools. Available for Windows, Linux, and macOS.
 - [Sublime Text](https://www.sublimetext.com/): A lightweight code editor used to write and edit code in various programming languages. Provides a range of features for code editing and customization. Available for Windows, Linux, and macOS.
+- [Android Studio](https://developer.android.com/studio): the official integrated development environment (IDE) for developing Android apps, providing a wide range of tools and features for building and testing Android applications
 
 #### Version Control Systems:
 
@@ -82,9 +89,20 @@ We encourage contributions from the community, so if you have a favorite develop
 
 #### Testing and Debugging Tools
 
-- [Selenium](https://www.selenium.dev/): An open-source tool for automating web browsers to test web applications. Supports a range of programming languages including Java, C#, Python, and more. Works on Windows, Linux, and macOS.
-- [JUnit](https://junit.org/junit5/): A popular testing framework for Java programmers. Used for unit testing, integration testing, and more. Can be used with various IDEs and build tools.
+##### Test runners
+
+- [Jest](https://jestjs.io/): a popular testing framework for JavaScript that provides a simple and easy-to-use interface for writing and running tests, with built-in support for mocking and code coverage reporting
+- [Mocha](https://mochajs.org/): a JavaScript testing framework that provides a flexible and extensible testing interface, allowing developers to choose their own assertion library and mocking tools
 - [Xdebug](https://xdebug.org/): A PHP extension for debugging PHP scripts. Available for Windows, Linux, and macOS.
+- [JUnit](https://junit.org/junit5/): A popular testing framework for Java programmers. Used for unit testing, integration testing, and more. Can be used with various IDEs and build tools.
+
+##### E2E Testing
+
+- [Cypress](https://www.cypress.io/): a JavaScript end-to-end testing framework that provides an easy-to-use API for writing and running tests, with a focus on fast and reliable test execution and debugging
+- [Playwright](https://playwright.dev/): an open-source Node.js library for automating browsers and mobile devices, providing a powerful and flexible API for writing and running end-to-end tests and browser automation scripts
+- [Selenium](https://www.selenium.dev/): An open-source tool for automating web browsers to test web applications. Supports a range of programming languages including Java, C#, Python, and more. Works on Windows, Linux, and macOS.
+- [Appium](http://appium.io/): an open-source test automation tool for mobile applications that supports a wide range of platforms and devices, allowing developers to write and run tests using a variety of programming languages and testing frameworks
+- [Detox](https://github.com/wix/Detox): a gray-box end-to-end testing and automation framework for mobile apps that provides full control over the device and testing environment, with a focus on reliable and maintainable test code
 
 #### Issue Tracking and Project Management Tools
 
@@ -124,6 +142,12 @@ We encourage contributions from the community, so if you have a favorite develop
 - [Xamarin](https://dotnet.microsoft.com/apps/xamarin): a Microsoft-owned platform for building native Android, iOS, and Windows apps with .NET and C#
 - [NativeScript](https://nativescript.org/): an open-source framework for building native mobile apps with Angular, Vue.js, or TypeScript
 
+#### Design
+
+- [Figma](https://www.figma.com/): a cloud-based design tool for creating user interfaces, providing a powerful and collaborative interface for designing and prototyping web and mobile applications
+- [Sketch](https://www.sketch.com/): a digital design tool for creating user interfaces, providing a range of vector editing tools and a streamlined workflow for creating high-quality designs
+- [Adobe XD](https://www.adobe.com/products/xd.html): a vector-based design tool for creating user interfaces and experiences, providing a powerful and flexible interface for designing and prototyping web and mobile applications
+
 #### Styling
 
 ##### Approaches
@@ -151,12 +175,14 @@ We encourage contributions from the community, so if you have a favorite develop
 - [GreenSock Animation Platform (GSAP)](https://greensock.com/gsap/): A high-performance animation library for HTML5 and JavaScript, with support for animating CSS styles, SVG, canvas, and more. Available for HTML, CSS, and JavaScript.
 - [Anime.js](https://animejs.com/): A lightweight animation library for JavaScript, with support for CSS properties, SVG, DOM attributes, and more. Available for HTML, CSS, and JavaScript.
 - [Three.js](https://threejs.org/): A lightweight 3D animation library for JavaScript, used to create 3D animations and games in the web browser. Available for HTML, CSS, and JavaScript.
+- [Lottie](https://airbnb.io/lottie/): an open-source library for rendering After Effects animations in real-time on the web, providing a simple and flexible API for adding animations to your web pages and applications
 
 #### SVG libraries
 
 - [Snap.svg](http://snapsvg.io/): A JavaScript library for creating and animating SVG graphics on the web. Available for HTML, CSS, and JavaScript.
 - [D3.js](https://d3js.org/): A JavaScript library for creating dynamic and interactive data visualizations in the web browser. Available for HTML, CSS, and JavaScript.
 - [Raphael.js](http://dmitrybaranovskiy.github.io/raphael/): A lightweight JavaScript library for working with vector graphics on the web. Available for HTML, CSS, and JavaScript.
+- [SVGO](https://github.com/svg/svgo): an open-source tool for optimizing SVG files, providing a wide range of optimizations and options for reducing file size and improving rendering performance
 
 #### Web component libraries
 
@@ -165,6 +191,7 @@ We encourage contributions from the community, so if you have a favorite develop
 
 #### Cross-platform GUI frameworks
 
+- [Tauri](https://tauri.studio/): an open-source framework for building cross-platform desktop applications with web technologies, providing a flexible and powerful API for accessing native functionality and interacting with the operating system
 - [Electron](https://www.electronjs.org/): A popular framework for building cross-platform desktop applications using web technologies. Supports HTML, CSS, and JavaScript.
 - [Qt](https://www.qt.io/): A comprehensive, cross-platform C++ application development framework used to create native-looking applications with minimal coding. Supports various platforms and programming languages.
 
@@ -179,6 +206,8 @@ We encourage contributions from the community, so if you have a favorite develop
 
 - [MongoDB](https://www.mongodb.com/): A document-based NoSQL database that uses JSON-like documents to store data. Supports various programming languages and is available on Windows, Linux, and macOS.
 - [Couchbase](https://www.couchbase.com/): A distributed NoSQL database that uses key-value pairs to store and retrieve data. Supports various programming languages and is available on Windows, Linux, and macOS.
+
+#### Others
 
 ### Data analytics
 

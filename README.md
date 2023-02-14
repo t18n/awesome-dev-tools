@@ -1,3 +1,5 @@
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 # Awesome Dev Tools
 
 A curated list of awesome development tools and resources for software developers.

@@ -1,5 +1,3 @@
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
 # Awesome Dev Tools
 
 A curated list of awesome development tools and resources for software developers.
@@ -33,4 +31,4 @@ Please note that all contributions are subject to review, and we reserve the rig
 
 ## License
 
-This repository is licensed under the MIT License. Please see the LICENSE file for more information.
+This repository is released into the public domain under the Creative Commons CC0 1.0 Universal Public Domain Dedication. You can find a copy of the CC0 license in the LICENSE file.

@@ -27,6 +27,7 @@ A curated list of awesome development tools and resources for software developer
         - [Libraries](#libraries)
       - [JavaScript animation frameworks](#javascript-animation-frameworks)
       - [SVG libraries](#svg-libraries)
+      - [Editor libraries](#editor-libraries)
       - [Web component libraries](#web-component-libraries)
       - [Cross-platform GUI frameworks](#cross-platform-gui-frameworks)
     - [Database](#database)
@@ -185,6 +186,16 @@ We encourage contributions from the community, so if you have a favorite develop
 - [Raphael.js](http://dmitrybaranovskiy.github.io/raphael/): A lightweight JavaScript library for working with vector graphics on the web. Available for HTML, CSS, and JavaScript.
 - [SVGO](https://github.com/svg/svgo): an open-source tool for optimizing SVG files, providing a wide range of optimizations and options for reducing file size and improving rendering performance
 
+#### Editor libraries
+
+- [TipTap](https://www.tiptap.dev/): a framework for building rich text editors in Vue.js, providing a powerful and flexible set of tools for creating custom editors and handling user input
+- [Draft.js](https://draftjs.org/): an open-source library for building rich text editors in React, providing a powerful and extensible set of tools for handling text input and rendering complex document structures
+- [Lexical](https://lexical.ooo/): a JavaScript library for building custom text editors, providing a simple and extensible API for handling text input and rendering formatted text
+- [Editor.js](https://editorjs.io/): a block-based editor for creating articles, blog posts, and other rich content, providing a range of blocks for handling text, images, and other media
+- [ProseMirror](https://prosemirror.net/): a toolkit for building rich-text editors in the browser, providing a powerful and flexible set of tools for handling text input and rendering complex document structures
+- [Slate.js](https://www.slatejs.org/): a completely customizable framework for building rich-text editors, providing a flexible and powerful set of tools for handling user input and rendering complex document structures
+- [Editable.js](https://github.com/medialize/Editable.js): a library for creating in-browser WYSIWYG editors, providing a simple and easy-to-use API for adding rich text editing capabilities to your web pages and applications
+
 #### Web component libraries
 
 - [Polymer](https://polymer-library.polymer-project.org/): A JavaScript library for building web components and creating reusable custom elements for web pages. Available for HTML, CSS, and JavaScript.
@@ -210,7 +221,7 @@ We encourage contributions from the community, so if you have a favorite develop
 
 #### Others
 
-- [tbls](https://github.com/k1LoW/tbls): tbls is a CI-Friendly tool for document a database, written in Go. 
+- [tbls](https://github.com/k1LoW/tbls): tbls is a CI-Friendly tool for document a database, written in Go.
 
 ### Data analytics
 

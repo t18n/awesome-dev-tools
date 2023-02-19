@@ -39,7 +39,7 @@ A curated list of awesome development tools and resources for software developer
     - [Back-end](#back-end)
       - [Headless CMS](#headless-cms)
       - [RESTful API frameworks](#restful-api-frameworks)
-      - [WebSocket frameworks](#websocket-frameworks)
+      - [WebSocket](#websocket)
     - [AI](#ai)
       - [Machine learning frameworks](#machine-learning-frameworks)
     - [Accessibility](#accessibility)
@@ -247,10 +247,11 @@ We encourage contributions from the community, so if you have a favorite develop
 - [Express](https://expressjs.com/): A popular Node.js web application framework used to create RESTful APIs and web applications. Supports various middleware and template engines.
 - [Flask](https://flask.palletsprojects.com/): A lightweight Python web framework used to create RESTful APIs and web applications. Supports various plugins and extensions.
 
-#### WebSocket frameworks
+#### WebSocket
 
 - [Socket.IO](https://socket.io/): A JavaScript library for building real-time, bidirectional, and event-based communication applications on the web. Available for HTML, CSS, and JavaScript.
 - [Ratchet](http://socketo.me/): A PHP WebSocket library for building real-time applications and communication channels. Available for PHP.
+- [Inquery](https://github.com/inqueryio/inquery): Inquery is a utility for Postgres that triggers webhooks when rows are inserted, updated, or deleted. It uses database triggers that send low-latency websocket messages to a Go application. This application then calls the configured webhook(s) with a JSON payload that includes specified values from the database row.
 
 ### AI
 

@@ -105,6 +105,10 @@ We encourage contributions from the community, so if you have a favorite develop
 - [Appium](http://appium.io/): an open-source test automation tool for mobile applications that supports a wide range of platforms and devices, allowing developers to write and run tests using a variety of programming languages and testing frameworks
 - [Detox](https://github.com/wix/Detox): a gray-box end-to-end testing and automation framework for mobile apps that provides full control over the device and testing environment, with a focus on reliable and maintainable test code
 
+#### Workflow Monitoring Tools
+
+- [Telert](https://github.com/navig-me/telert) – Lightweight open-source CLI tool to send Telegram, Slack, Desktop, or Audio notifications when terminal commands finish.
+
 #### Issue Tracking and Project Management Tools
 
 - [Jira](https://www.atlassian.com/software/jira): A proprietary issue tracking, bug tracking, and project management tool developed by Atlassian. Used by agile teams to plan, track, and release software. Available on the cloud and on-premise.

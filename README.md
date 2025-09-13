@@ -11,6 +11,7 @@ A curated list of awesome development tools and resources for software developer
     - [Development Tools](#development-tools)
       - [Integrated Development Environments (IDEs)](#integrated-development-environments-ides)
       - [Version Control Systems:](#version-control-systems)
+      - [Build Artifact / Binary Management:](#build-artifact-binary-management)
       - [Testing and Debugging Tools](#testing-and-debugging-tools)
         - [Test runners](#test-runners)
         - [E2E Testing](#e2e-testing)

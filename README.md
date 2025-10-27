@@ -74,6 +74,11 @@ We encourage contributions from the community, so if you have a favorite develop
 
 ### Development Tools
 
+#### Developer Utilities
+
+  - [ToolHover](https://toolhover.com) - Free online developer utilities including JSON formatter & validator, password generator, hash
+  generator, Base64 encoder/decoder, text counter & converter, and QR code generator.
+
 #### Integrated Development Environments (IDEs)
 
 - [Visual Studio Code](https://code.visualstudio.com/): A free, lightweight, cross-platform source code editor by Microsoft for Windows, Linux, and macOS, with support for debugging, syntax highlighting, intelligent code completion, Git integration, and more. Built with Electron and TypeScript.

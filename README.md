@@ -135,6 +135,14 @@ We encourage contributions from the community, so if you have a favorite develop
 
 #### Web development
 
+#### Web-based Developer Utilities
+
+- [ByteTools JWT Decoder](https://bytetools.io/jwt-decoder/) - Decode and inspect JSON Web Tokens securely. 100% client-side processing.
+- [ByteTools Passphrase Generator](https://bytetools.io/passphrase-generator/) - Generate secure, memorable passphrases with customizable options.
+- [ByteTools QR Generator](https://bytetools.io/qr-generator/) - Generate QR codes including WiFi QR codes. Works offline.
+- [ByteTools Regex Test](https://bytetools.io/regex-tester/) - Free regex test tool with real-time matching and examples.
+- [ByteTools URL Encoder](https://bytetools.io/url-encoder/) - Encode and decode URLs safely for query parameters and API endpoints.
+
 ##### Client-side
 
 - [React](https://reactjs.org/): a JavaScript library for building user interfaces

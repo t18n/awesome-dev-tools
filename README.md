@@ -105,6 +105,12 @@ We encourage contributions from the community, so if you have a favorite develop
 - [Appium](http://appium.io/): an open-source test automation tool for mobile applications that supports a wide range of platforms and devices, allowing developers to write and run tests using a variety of programming languages and testing frameworks
 - [Detox](https://github.com/wix/Detox): a gray-box end-to-end testing and automation framework for mobile apps that provides full control over the device and testing environment, with a focus on reliable and maintainable test code
 
+##### API Mocking and Debugging
+
+- [Beeceptor](https://beeceptor.com/): A no-code, cloud based, multi-protocol mock server and debugging tool, used to create custom API endpoints for capturing, inspecting, and mocking HTTP requests and webhooks. Crucial for testing API integrations and frontend development when the backend is unavailable.
+- [Microcks](https://microcks.io/): The open source ([CNCF](https://www.cncf.io/projects/microcks/) project), cloud native tool for **API Mocking** and Testing with [GraphQL support](https://microcks.io/blog/graphql-features-what-to-expect/) 🎥 [GraphQL conf 2023](https://youtu.be/UjDnrrTp7uI?si=M6S4l_Bukp9CEYl4)
+- [WireMock](https://wiremock.org/):  Open-source, flexible multi-protocol service virtualization tool by which external API dependencies can be reliably simulated and stubbed for testing and isolated development environments.
+
 #### Workflow Monitoring Tools
 
 - [Telert](https://github.com/navig-me/telert) – Lightweight open-source CLI tool to send Telegram, Slack, Desktop, or Audio notifications when terminal commands finish.

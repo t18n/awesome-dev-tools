@@ -106,6 +106,7 @@ We encourage contributions from the community, so if you have a favorite develop
 - [Mocha](https://mochajs.org/): a JavaScript testing framework that provides a flexible and extensible testing interface, allowing developers to choose their own assertion library and mocking tools
 - [Xdebug](https://xdebug.org/): A PHP extension for debugging PHP scripts. Available for Windows, Linux, and macOS.
 - [JUnit](https://junit.org/junit5/): A popular testing framework for Java programmers. Used for unit testing, integration testing, and more. Can be used with various IDEs and build tools.
+- [NPM Scan](https://npmscan.com/) – Zero-setup npm package security scanner that detects malicious code, obfuscation, hidden scripts, and supply-chain risks before installing dependencies.
 
 ##### E2E Testing
 
